@@ -2,6 +2,11 @@ Hello Git
 
 Modification
 Modification 2
+
 bug fix
 
 nouveaute
+
+
+commence nouveaute
+fini nouveaute
